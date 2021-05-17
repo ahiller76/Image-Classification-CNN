@@ -3,7 +3,7 @@
 
 •*keras*
 
-•*pahtlib*
+•*pathlib*
 
 •*matplotlib*
 
